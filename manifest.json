@@ -1,0 +1,11 @@
+{
+  "name": "IMG Blocker",
+  "version": "0.1",
+  "description": "Shuts out images on the website",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [""]
+}
